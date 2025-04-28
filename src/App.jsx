@@ -179,7 +179,7 @@ function App() {
           },
         }}
       >
-        <Box sx={modalStyle} className="bg-gray-500!">
+        <Box sx={modalStyle} className="bg-gray-500! pt-20!">
           <input
             maxLength={20}
             type="text"
